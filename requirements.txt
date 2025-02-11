@@ -1,0 +1,26 @@
+# Core Python dependencies
+python>=3.8  
+
+# LLM-related libraries
+langchain  
+langchain_google_genai  
+langchain_community  
+langchain_experimental  
+
+# Large Language Models (Choose based on preference)
+openai  # If using OpenAI models  
+ollama  # If using a local LLM with Ollama  
+
+# Cloud & API integration
+google-generativeai  
+vertexai  
+google-cloud-storage  
+
+# Data processing & visualization
+pandas  
+neo4j  
+wikipedia-api  
+yfiles_jupyter_graphs  
+
+# Jupyter environment
+jupyter  
